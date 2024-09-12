@@ -1,4 +1,4 @@
-## Hi there, I`m Pedro Teochi 👋
+## Hi there, I'm Pedro Teochi 👋
 
 <img style="float: left;" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteochi&layout=compact&theme=radical">
 
